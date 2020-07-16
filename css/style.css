@@ -50,6 +50,7 @@ body {
 }
 .content {
   font-size: 16px;
+  letter-spacing: 1px;
 }
 
 .post-content>*:first-child {
@@ -74,7 +75,7 @@ body {
 .content h6 {
   margin-top: 24px 0 16px 0;
   font-weight: 600;
-  line-height: 1.25;
+  line-height: 1.8;
 }
 .content h1 {
   padding-bottom: 0.3em;
